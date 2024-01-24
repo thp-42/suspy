@@ -12,6 +12,12 @@ Suspy is an open-source project dedicated to the detection of online payment fra
 - **User-Friendly Dashboard**: A user-friendly dashboard provides insights into detected fraud cases and facilitates easy configuration.
 - **Data Visualization**: Visualize payment data and fraud trends through interactive charts and graphs.
 
+## Backend Technology Stack
+
+- **Flask**: Suspy is built on the Flask web framework, providing a robust and scalable backend.
+- **SQLAlchemy**: The project uses SQLAlchemy for database management, ensuring data integrity and flexibility.
+- **JavaScript Libraries**: Suspy relies on the "sus.js" JavaScript library for client-side functionality. Additional client-side libraries will be incorporated in future releases.
+
 ## Getting Started
 
 These instructions will help you get Suspy up and running on your local machine for development and testing purposes. For production deployment, additional steps and configurations may be required.
