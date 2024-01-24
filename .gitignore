@@ -1,5 +1,5 @@
 # Ignore virtual environment directories
-venv/
+suspy/
 
 # Ignore Python bytecode files
 __pycache__/
